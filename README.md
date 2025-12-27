@@ -23,6 +23,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### 📊 Estatísticas (Stats)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JulianaGalli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaGalli&layout=compact&theme=dracula&langs_count=7" />
+</p>
+
 ### 📫 Vamos nos conectar? / Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-galli-690269120/)
