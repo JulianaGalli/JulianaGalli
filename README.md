@@ -26,7 +26,7 @@
 ### 📫 Vamos nos conectar? / Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-galli-690269120/)
-[![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](mailto:galli.juliana@yahoo.com.br)
+[![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:galli.juliana@yahoo.com.br)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/_julianagalli_40552)
 
 ---
