@@ -9,9 +9,9 @@
 
 - Iniciei minha jornada profissional na área da Saúde em 2010, uma trajetória marcada pelo desafio de atuar em ambientes de alta complexidade e criticidade, como o Hospital Beneficência Portuguesa de São Paulo. Ali, como fisioterapeuta intensivista, desenvolvi um raciocínio analítico sob pressão e a capacidade de tomar decisões vitais baseadas em dados clínicos em tempo real.
 
-- Com o tempo, minha carreira evoluiu para a gestão estratégica e preventiva. Atuei como Analista de HSE e Ergonomista Master em grandes organizações, como a Vale, onde descobri minha verdadeira paixão: transformar dados brutos em inteligência operacional. Foi analisando padrões de risco e indicadores de saúde que percebi o poder da Ciência de Dados para gerar impacto social e corporativo.
+- Com o tempo, minha carreira evoluiu para a gestão estratégica e preventiva. Atuei como Analista de Dados HSER (Health, Safety, Environment & Risks) e Ergonomista Master em grandes organizações, como a Vale, onde descobri minha verdadeira paixão: transformar dados brutos em inteligência operacional. Foi analisando padrões de risco e indicadores de saúde que percebi o poder da Ciência de Dados para gerar impacto social e corporativo.
 
-- Um dos marcos da minha trajetória é o compromisso com a Diversidade e Inclusão (DE&I). Desenvolvi uma metodologia própria com procedimentos técnicos rigorosos, unindo a coleta e tratamento de dados (ETL) à criação de indicadores de gestão (KPIs) para apresentações executivas. Acredito que a inclusão real nasce de processos estruturados e métricas que sustentam a transparência.
+- Um dos marcos da minha trajetória é o compromisso com a Diversidade, Equidade e Inclusão (DE&I). Desenvolvi uma metodologia própria com procedimentos técnicos rigorosos, unindo a coleta e tratamento de dados (ETL) à criação de indicadores de gestão (KPIs) para apresentações executivas. Acredito que a inclusão real nasce de processos estruturados e métricas que sustentam a transparência.
 
 - Hoje, como Cientista de Dados, combino minha experiência de mercado com competências técnicas em Python, SQL e Machine Learning. Minha missão é traduzir bases de dados complexas em insights que direcionam a eficiência e a responsabilidade social dos negócios.
 
