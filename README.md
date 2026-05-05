@@ -48,7 +48,7 @@ Hi, I'm Juliana Galli 👋
 
 - If you are just visiting my profile, welcome!
 
-= I began my professional journey in healthcare back in 2010, a path defined by the challenge of working in high-complexity and critical environments, such as the Hospital Beneficência Portuguesa de São Paulo. As an ICU Physical Therapist, I developed analytical reasoning under pressure and the ability to make vital decisions based on real-time clinical data.
+- I began my professional journey in healthcare back in 2010, a path defined by the challenge of working in high-complexity and critical environments, such as the Hospital Beneficência Portuguesa de São Paulo. As an ICU Physical Therapist, I developed analytical reasoning under pressure and the ability to make vital decisions based on real-time clinical data.
 
 - Over time, my career evolved toward strategic management as an HSER Data Analyst and Master Ergonomist in large-scale organizations like Vale. It was there that I discovered my passion for transforming raw data into operational intelligence. By analyzing risk patterns and health indicators, I realized the power of Data Science to drive both social impact and corporate efficiency.
 
